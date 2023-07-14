@@ -1,0 +1,27 @@
+div{
+    margin: auto;
+    height: 150px;
+    width: 100px;
+    background-color: yellow;
+    border: 2px solid black;
+}
+#first{
+    position: relative;
+    left: -150px;
+}
+#second{
+    position: relative;
+    top: -150px;
+}
+#third{
+    position: relative;
+    top: -300px;
+    left: 150px;
+}
+ol{
+    border: 3px solid red;
+    margin: 0px;
+    font-weight: bolder;
+    text-align: center;
+    background-color: mediumblue;
+}
